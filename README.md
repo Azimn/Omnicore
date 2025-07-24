@@ -1,0 +1,2 @@
+# Omnicore
+Ai persona system
